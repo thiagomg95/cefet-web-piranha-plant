@@ -1,0 +1,57 @@
+body
+{
+    text-align: justify;
+    background-image: url('./imagens/fundo.png');
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+h1
+{
+    font-family: 'Times New Roman';
+    font-size: 28px;
+    color: limegreen;
+}
+
+h2
+{
+    font-family: 'Times New Roman';
+    font-size: 24px;
+    color: limegreen; 
+}
+
+img
+{
+    border: solid 4px limegreen;
+}
+
+blockquote, q
+{
+    font-style: italic;
+}
+
+p
+{
+    font-family: "Arial";
+    text-align: justify;
+}
+
+li
+{
+	font-family: "Arial";
+	text-align: justify;
+}
+
+table
+{
+	border-collapse: collapse;
+	border: 2px solid silver;
+	border-color: silver;
+	width: 600px;
+}
+
+td, th
+{
+	border: 2px solid silver;
+	text-align: center;
+}
